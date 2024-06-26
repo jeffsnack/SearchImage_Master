@@ -1,0 +1,11 @@
+Flask
+Pillow
+flask_sqlalchemy
+pymilvus==2.3.6
+numpy
+keras==2.12.0
+tensorflow==2.12.0
+
+#pip install force-reinstall pymilvus
+#強制安裝套件
+#protobuf==3.20.0

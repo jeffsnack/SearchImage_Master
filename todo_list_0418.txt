@@ -1,0 +1,7 @@
+1.改掉search_image裡面的寫法
+2.使用gpu加速訓練
+3.換個dataset訓練
+4.用git推上我的github
+5.docker包起來
+6.撰寫Readme
+7.調查一下是否有需要再新開一個db放圖片

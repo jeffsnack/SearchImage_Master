@@ -1,0 +1,15 @@
+待辦事項
+
+先確認一下啟動流程
+訓練vgg16
+保存模型
+測試一下網站顯示
+
+
+先用vgg16.py訓練完模型後，再用vgg.py指定預訓練好的h5文件進行
+
+SET PATH=C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.8\bin;%PATH%
+SET PATH=C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.8\extras\CUPTI\lib64;%PATH%
+SET PATH=C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.8\include;%PATH%
+SET PATH=C:\Users\jason\Downloads\cudnn-windows-x86_64-8.9.6.50_cuda11-archive\bin;%PATH%
+test
